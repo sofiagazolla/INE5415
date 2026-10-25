@@ -1,6 +1,6 @@
 <h1 align="center">INE5415 · Teoria da Computação</h1>
 
-Máquinas de Turing e atividades realizadas na disciplina de Teoria da Computação, no quarto semestre do curso de Ciências da Computação na UFSC.
+Atividades realizadas na disciplina de Teoria da Computação, no quarto semestre do curso de Ciências da Computação na UFSC.
 
 ## Competências desenvolvidas
 
